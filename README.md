@@ -22,14 +22,17 @@ The project uses the **NIH Chest X-ray Dataset** here is the [here](https://www.
 Through this project, we aim to enable low-power portable healthcare diagnostic support solutions. We explore Binarized Neural Networks (BNN) for the efficient diagnosis of thoracic pathologies via Chest X-Ray images. We test our model on the publicly available NIH Chest X-Ray dataset and achieve state-of-the-art results while consuming substantially less resources than the current state-of-the-art network, CheXNet.
 
 ## Samples
-Label: Cardiomegaly     Model Output: Cardiomegaly \
-![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample1.png =500x500)
+**Label**: Cardiomegaly    
+**Model Output**: Cardiomegaly \
+![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample1.png)
 
-Label: Cardiomegaly and Emphysema     Model Output: Cardiomegaly and Emphysema \
-![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample2.png =500x500)
+**Label**: Cardiomegaly and Emphysema    
+**Model Output**: Cardiomegaly and Emphysema \
+![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample2.png)
 
-Label: No Finding     Model Output: No Finding \
-![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample3.png =500x500)
+**Label**: No Finding     
+**Model Output**: No Finding \
+![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample3.png)
 
 ## How to reproduce results?
 
