@@ -21,7 +21,7 @@ The project uses the **NIH Chest X-ray Dataset** here is the [here](https://www.
 ## Problem Statement
 Through this project, we aim to enable low-power portable healthcare diagnostic support solutions. We explore Binarized Neural Networks (BNN) for the efficient diagnosis of thoracic pathologies via Chest X-Ray images. We test our model on the publicly available NIH Chest X-Ray dataset and achieve state-of-the-art results while consuming substantially less resources than the current state-of-the-art network, CheXNet.
 
-## DeepChest
+## Samples
 
 
 ## How to reproduce results?
