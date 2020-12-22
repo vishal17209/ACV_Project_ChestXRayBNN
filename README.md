@@ -23,13 +23,13 @@ Through this project, we aim to enable low-power portable healthcare diagnostic 
 
 ## Samples
 Label: Cardiomegaly     Model Output: Cardiomegaly \
-![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample1.png "sample1")
+![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample1.png = 500x500)
 
 Label: Cardiomegaly and Emphysema     Model Output: Cardiomegaly and Emphysema \
-![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample2.png "sample2")
+![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample2.png = 500x500)
 
 Label: No Finding     Model Output: No Finding \
-![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample3.png "sample3")
+![alt text](https://github.com/vishal17209/ACV_Project_ChestXRayBNN/blob/main/sample3.png = 500x500)
 
 ## How to reproduce results?
 
